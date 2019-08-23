@@ -1,1 +1,1 @@
-class CreateActors < ActiveRecord::Migration[5.1]
+class AddDataToShows < ActiveRecord::Migration[5.1]
