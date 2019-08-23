@@ -1,1 +1,1 @@
-class CreateActors < ActiveRecord::Migration[5.1]
+class AddActorIdToCharacters < ActiveRecord::Migration[5.1]
